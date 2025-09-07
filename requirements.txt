@@ -1,0 +1,7 @@
+Flask==2.3.6
+flask-cors==3.1.2
+python-dotenv==1.0.1
+gTTS==2.3.2
+SpeechRecognition==3.9.0
+google-generativeai==0.1.9
+pydub==0.25.1
