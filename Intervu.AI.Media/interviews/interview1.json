@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Hello, welcome to Intervu.ai. I'm your virtual interview assistant. I'll ask you a few questions to help you practice and improve your interview skills. So how do you feel?",
+        "answer": "I feel fine thank you so much for asking and I'm so pleased to be in this interview",
+        "question_index": 1,
+        "score": 90,
+        "explanation": "The candidate provided a polite and enthusiastic response, which sets a positive tone for the interview. It's a great start.",
+        "feedback": "Great to hear! Your enthusiasm sets a positive tone for the interview, demonstrating good communication skills.",
+        "next_question": "Tell me about yourself and what motivated you to pursue a career in Machine Learning, especially in Computer Vision."
+    },
+    {
+        "question": "",
+        "answer": "episode impressed by the evolution of artificial intelligence and computer vision I'm a big fan of design and originally and artificial intelligence has been showing a great solution in this area so I decided to learn computer vision to be able to be more artistic",
+        "question_index": 2,
+        "score": 80,
+        "explanation": "The candidate clearly expresses their motivation for pursuing computer vision, linking it to design and artistic interests, which is a relevant personal connection.",
+        "feedback": "Good motivation. Clarify how Computer Vision techniques like generative models or style transfer enable artistic applications, adding more depth.",
+        "next_question": "What are Convolutional Neural Networks (CNNs) and why are they particularly effective for computer vision tasks?"
+    },
+    {
+        "question": "",
+        "answer": "because sentence cuts the images into chunks or patterns and this enables to neural network to scout image from every corner",
+        "question_index": 3,
+        "score": 20,
+        "explanation": "The response uses incorrect terminology ('sentence cuts the images') and lacks a precise understanding of how CNNs process images for feature extraction.",
+        "feedback": "Convolutional filters (kernels) scan images for patterns, extracting features. 'Sentence cuts' is incorrect terminology.",
+        "next_question": "Could you elaborate on the purpose of pooling layers in a Convolutional Neural Network?"
+    },
+    {
+        "question": "",
+        "answer": "I do not know",
+        "question_index": 4,
+        "score": 10,
+        "explanation": "The candidate explicitly stated they do not know the answer to the question. While honesty is valued, it indicates a lack of foundational knowledge for a technical question.",
+        "feedback": "Acknowledging a lack of knowledge is okay. This topic is fundamental for Computer Vision, and understanding core concepts is crucial.",
+        "next_question": "Can you explain the difference between object detection and image segmentation, and name common algorithms for each?"
+    },
+    {
+        "question": "",
+        "answer": "",
+        "question_index": 5,
+        "score": 0,
+        "explanation": "No answer was provided for the question at index 5.",
+        "feedback": "No response provided. It's crucial to offer an answer to assess your knowledge effectively.",
+        "next_question": "Explain the concept of receptive field in Convolutional Neural Networks (CNNs) and its importance."
+    }
+]

@@ -71,16 +71,21 @@ def reply_to_condidate(question, answer, question_index, condidate_field, condid
         - Questions {technical_start} to {technical_end}: Technical questions specific to the {condidate_speciality} speciality in {condidate_field} field
         - Questions {situational_start} to {situational_end}: Situational/hypothetical questions related to the {condidate_speciality} speciality in {condidate_field} field
 
+        Important:
+        - The candidate's response comes from a speech-to-text system, so minor transcription errors or typos may exist.
+        - Ignore obvious transcription mistakes that don’t affect meaning.
+        - Focus on evaluating the candidate's intended response, not transcription quality.
+
         Task:
         1. Evaluate the candidate's response to the given question.
         2. Provide constructive feedback:
-        - If the response contains mistakes, politely correct them in short and concise way.
+        - If the response contains real mistakes (not typos), politely correct them in short and concise way.
         - If the response is correct, clarify it to give more depth in short and concise way.
         - In both cases, generate short and concise content, max 25 words.
-        - If user response was empty, then probably they have no answer or skipped the question, handle the situation. 
+        - If user response was empty, then probably they have no answer or skipped the question, handle the situation.
         3. Assign a score out of 100 with a clear explanation of the evaluation.
         4. Generate the next interview question based on the current question index: {question_index}, 
-           based on the interview structure above.
+           based on the interview structure above, keep the questions simple and easy.
 
         Input:
         Question: "{question}"

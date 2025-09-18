@@ -1,0 +1,38 @@
+[
+    {
+        "question": "Hello, welcome to Intervu.ai. I'm your virtual interview assistant. I'll ask you a few questions to help you practice and improve your interview skills. So how do you feel?",
+        "answer": "I feel fine thank you for asking and so pleased to be in this interview",
+        "question_index": 1,
+        "score": 95,
+        "explanation": "The response is polite, professional, and expresses enthusiasm, setting a positive tone for the interview.",
+        "feedback": "Excellent! Your polite and enthusiastic response sets a positive tone. Good start to the interview.",
+        "next_question": "Can you tell me about a time you had to learn a new technology or skill quickly? How did you approach it?"
+    },
+    {
+        "question": "",
+        "answer": "one time I had a project of data annotation that I've never tried before and I searched in YouTube I Googled about it to know what the Temptation is and I started immediately to learn the concepts and it was quite simple and the project has been very well",
+        "question_index": 2,
+        "score": 85,
+        "explanation": "The candidate effectively described a situation demonstrating strong self-learning and problem-solving skills, leading to a successful project outcome. The narrative clearly shows initiative.",
+        "feedback": "Excellent demonstration of proactive learning and problem-solving skills. Clearly articulated taking initiative to master a new task successfully.",
+        "next_question": "Can you explain the main differences between traditional computer vision techniques and deep learning approaches for image recognition?"
+    },
+    {
+        "question": "",
+        "answer": "",
+        "question_index": 3,
+        "score": 0,
+        "explanation": "No response was provided by the candidate.",
+        "feedback": "Answering questions, even if partially, is crucial for evaluation. Please provide your best answer for the next question.",
+        "next_question": "Explain the concept of a Convolutional Neural Network (CNN) and its primary role in computer vision tasks."
+    },
+    {
+        "question": "",
+        "answer": "",
+        "question_index": 4,
+        "score": 0,
+        "explanation": "The candidate did not provide a response to the question, making it impossible to evaluate their understanding of the topic.",
+        "feedback": "As no response was provided, it's difficult to assess your knowledge. Please try to provide an answer for the next question.",
+        "next_question": "What are the key differences between object detection, semantic segmentation, and instance segmentation in computer vision?"
+    }
+]

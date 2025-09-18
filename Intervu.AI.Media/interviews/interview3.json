@@ -1,0 +1,11 @@
+[
+    {
+        "question": "Hello, welcome to Intervu.ai. I'm your virtual interview assistant. I'll ask you a few questions to help you practice and improve your interview skills. So how do you feel?",
+        "answer": "if you're fine thank you so much for asking and I am pleased to be in this interview",
+        "question_index": 1,
+        "score": 75,
+        "explanation": "The response shows enthusiasm and gratitude, which is positive for an opening. However, there was a grammatical error.",
+        "feedback": "It should be 'I'm fine'. Your enthusiasm and gratitude are a great start to the interview!",
+        "next_question": "Can you tell me a little bit about yourself and what motivates you to pursue a career in Machine Learning, especially in Computer Vision?"
+    }
+]
